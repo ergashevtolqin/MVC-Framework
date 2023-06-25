@@ -1,0 +1,15 @@
+{
+    "name": "user/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ergashev Tolqin",
+            "email": "ergashevtolqin0103@gmail.com"
+        }
+    ],
+    "require": {}
+}
